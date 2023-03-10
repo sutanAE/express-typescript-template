@@ -10,6 +10,10 @@ npm run dev # runs concurently and tsc watch for development
 npm run start # starts the server in the 'dist' folder. run npm run build first.
 ```
 
+## Developing Based on This Template
+
+git clone this repository and add the ```.env``` file. Put the ```PORT``` environment variable in the ```.env``` file all along with the secrets of the app.
+
 ## Routing guidance
 
 these are the default routing.
